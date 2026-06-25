@@ -52,22 +52,6 @@ A topologia foi construída no CORE Emulator e composta pelos seguintes elemento
 9. Realização dos testes de autenticação utilizando o comando radtest.
 10. Avaliação dos resultados obtidos.
 
-## Estrutura do Repositório
-
-```text
-.
-├── artigo/
-│   └── artigo.pdf
-├── configuracoes/
-│   ├── radius/
-│   ├── hostapd/
-│   └── wpa_supplicant/
-├── imagens/
-│   ├── topologia.png
-│   ├── access_accept.png
-│   └── access_reject.png
-└── README.md
-```
 
 ## Resultados
 
