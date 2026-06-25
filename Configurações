@@ -1,1 +1,4 @@
-artigo/artigo.pdf
+configuracoes/
+│   ├── freeradius/
+│   ├── hostapd/
+│   └── wpa_supplicant/
